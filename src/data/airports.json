@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Sân bay Quốc tế Nội Bài",
+        "iataCode": "HAN",
+        "city": "Hà Nội",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Tân Sơn Nhất",
+        "iataCode": "SGN",
+        "city": "Thành phố Hồ Chí Minh",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Đà Nẵng",
+        "iataCode": "DAD",
+        "city": "Đà Nẵng",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Cam Ranh",
+        "iataCode": "CXR",
+        "city": "Nha Trang",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Phú Quốc",
+        "iataCode": "PQC",
+        "city": "Phú Quốc",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Phú Bài",
+        "iataCode": "HUI",
+        "city": "Huế",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Vân Đồn",
+        "iataCode": "VDO",
+        "city": "Quảng Ninh",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Cần Thơ",
+        "iataCode": "VCA",
+        "city": "Cần Thơ",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Vinh",
+        "iataCode": "VII",
+        "city": "Vinh",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Cát Bi",
+        "iataCode": "HPH",
+        "city": "Hải Phòng",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Liên Khương",
+        "iataCode": "DLI",
+        "city": "Đà Lạt",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Quốc tế Phù Cát",
+        "iataCode": "UIH",
+        "city": "Quy Nhơn",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Chu Lai",
+        "iataCode": "VCL",
+        "city": "Quảng Nam",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Thọ Xuân",
+        "iataCode": "THD",
+        "city": "Thanh Hóa",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Đồng Hới",
+        "iataCode": "VDH",
+        "city": "Quảng Bình",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Điện Biên Phủ",
+        "iataCode": "DIN",
+        "city": "Điện Biên",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Tuy Hòa",
+        "iataCode": "TBB",
+        "city": "Phú Yên",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Pleiku",
+        "iataCode": "PXU",
+        "city": "Gia Lai",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Buôn Ma Thuột",
+        "iataCode": "BMV",
+        "city": "Đắk Lắk",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Rạch Giá",
+        "iataCode": "VKG",
+        "city": "Kiên Giang",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Cà Mau",
+        "iataCode": "CAH",
+        "city": "Cà Mau",
+        "country": "Việt Nam"
+    },
+    {
+        "name": "Sân bay Côn Đảo",
+        "iataCode": "VCS",
+        "city": "Bà Rịa - Vũng Tàu",
+        "country": "Việt Nam"
+    }
+]

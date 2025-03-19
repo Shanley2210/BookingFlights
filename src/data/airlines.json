@@ -1,0 +1,38 @@
+[
+    {
+        "carrierCode": "VN",
+        "name": "Vietnam Airlines"
+    },
+    {
+        "carrierCode": "VJ",
+        "name": "VietJet Air"
+    },
+    {
+        "carrierCode": "QH",
+        "name": "Bamboo Airways"
+    },
+    {
+        "carrierCode": "BL",
+        "name": "Pacific Airlines"
+    },
+    {
+        "carrierCode": "VU",
+        "name": "Vietravel Airlines"
+    },
+    {
+        "carrierCode": "0V",
+        "name": "VASCO (Công ty bay dịch vụ hàng không Việt Nam)"
+    },
+    {
+        "carrierCode": "HA",
+        "name": "Hàng không Hải Âu"
+    },
+    {
+        "carrierCode": "VSM",
+        "name": "Vietstar Airlines"
+    },
+    {
+        "carrierCode": "VNH",
+        "name": "Tổng Công ty Trực thăng Việt Nam"
+    }
+]
